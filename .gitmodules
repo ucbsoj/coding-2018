@@ -1,0 +1,18 @@
+[submodule "churches-repo"]
+	path = churches-repo
+	url = https://github.com/alidefazio/churches-repo
+[submodule "crab-repo"]
+	path = crab-repo
+	url = https://github.com/nabroberts/crab-repo
+[submodule "hayward-repo"]
+	path = hayward-repo
+	url = https://github.com/seawarren/hayward-repo
+[submodule "Police-shootings"]
+	path = Police-shootings
+	url = https://github.com/awernikoff/Police-shootings
+[submodule "a-search-for-belonging"]
+	path = a-search-for-belonging
+	url = https://github.com/dcostley12/a-search-for-belonging
+[submodule "teachers-repo"]
+	path = teachers-repo
+	url = https://github.com/jennifercortez/teachers-repo
