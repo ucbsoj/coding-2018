@@ -16,3 +16,6 @@
 [submodule "teachers-repo"]
 	path = teachers-repo
 	url = https://github.com/jennifercortez/teachers-repo
+[submodule "Incarceration"]
+	path = Incarceration
+	url = https://github.com/christiancollins196/Incarceration
